@@ -1,5 +1,5 @@
 {
-  "name": "LoRD-MD",
+  "name": "CAT-MD",
   "version": "1.2.3",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Lord-official",
+  "author": "THARINDU",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
@@ -66,7 +66,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lord-official/LoRD-MD.git"
+    "url": "git+https://github.com/tharindu13/LoRD-MD.git"
   },
   "bugs": {
     "url": "https://github.com/Lord-official/LoRD-MD/issues"
