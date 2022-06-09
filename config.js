@@ -1,7 +1,7 @@
 /**
    * Created By LoRD.
-   * Contact Me on wa.me/919778383987
-   * Follow https://github.com/Lord-official
+   * Contact Me on wa.me/94701040812
+   * Follow https://github.com/tharindu13
 **/
 
 const fs = require('fs')
@@ -22,23 +22,23 @@ global.wm = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮'
 global.ucpn = ''
 
 //================= Url =================//
-global.linkgc = 'https://chat.whatsapp.com/CUCsW6BWfmJLJwJgPQIaKM'
+global.linkgc = 'https://chat.whatsapp.com/ClQqwfJkoM86Sqg35xtVsR'
 global.linkig = 'https://www.instagram.com/reel/Ccx79E0A8Rt/?igshid=YmMyMTA2M2Y='
 global.linkyt = 'https://youtu.be/RnpyRe_7jZA'
 global.linkfb = 'https://fb.watch/aYv0jAffAO'
 global.web = 'https://raselcomel.github.io'
 global.web1 = 'https://anu.rasell.repl.co'
-global.linkgh = 'https://github.com/Lord-official'
+global.linkgh = 'https://github.com/tharindu13'
 
 global.session = process.env.SESSION_ID|| ''
 global.titlink = 'Folllow me on Instagram'
 global.bodlink = 'Lord-official'
 // Other
-global.watermark = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮🇳'
-global.owner = ['919778383987']
-global.premium = ['919778383987']
-global.packname = '𝐋𝐨𝐑𝐃-𝐌𝐃'
-global.author = '𝐿𝑜𝑟𝑑-𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙'
+global.watermark = '«THARINDU'
+global.owner = ['94753240198']
+global.premium = ['94701040812']
+global.packname = 'tharindu'
+global.author = 'THARINDU'
 global.sessionName = 'lord'
 global.prefa = ['','!','.','🐦',',','*']
 global.sp = '❄︎'
